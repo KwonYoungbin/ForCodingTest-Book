@@ -1,5 +1,5 @@
 import sys
-
+# 구현 미완료 상태. 추가 해야 함
 n = int(sys.stdin.readline())
 k = int(sys.stdin.readline())
 board = [[-1]*(n+2) for _ in range(n+2)]
